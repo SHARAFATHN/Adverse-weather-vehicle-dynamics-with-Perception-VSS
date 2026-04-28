@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": 0.0,
+    "time_label": "00:00",
+    "scene": "A news broadcast screen with a blue and white design, featuring the CBS13 logo and a temperature reading.",
+    "people": "0",
+    "objects": [
+      "CBS13 logo",
+      "temperature reading",
+      "news broadcast screen"
+    ],
+    "activity": "A news broadcast is being displayed on the screen.",
+    "anomaly": "null"
+  },
+  {
+    "timestamp": 10.0,
+    "time_label": "00:09",
+    "scene": "A busy highway with cars driving on a flooded section due to a water main break.",
+    "people": "0",
+    "objects": [
+      "cars",
+      "water",
+      "road"
+    ],
+    "activity": "Traffic on a flooded highway",
+    "anomaly": "Water Main Break Flooding Hwy 99"
+  },
+  {
+    "timestamp": 20.0,
+    "time_label": "00:19",
+    "scene": "A highway with a water main break causing flooding.",
+    "people": "0",
+    "objects": [
+      "cars",
+      "water",
+      "trees",
+      "road"
+    ],
+    "activity": "Cars driving on a flooded highway.",
+    "anomaly": "Water Main Break Flooding Hwy 99"
+  },
+  {
+    "timestamp": 29.9,
+    "time_label": "00:29",
+    "scene": "A highway with cars driving on it, with water flooding the road.",
+    "people": "0",
+    "objects": [
+      "cars",
+      "water",
+      "road"
+    ],
+    "activity": "Cars driving on a flooded highway.",
+    "anomaly": "Water Main Break Flooding Hwy 99"
+  }
+]

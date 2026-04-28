@@ -1,0 +1,7 @@
+ultralytics
+transformers
+accelerate
+bitsandbytes
+opencv-python
+pillow
+torch
